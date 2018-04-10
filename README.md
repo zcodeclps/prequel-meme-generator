@@ -5,5 +5,7 @@ The basic idea is to think of a situation, pick the "emotion" that best describe
 The text file contains what is needed to load the memes into the program with the format of:
 
 [filename]
+
 [movie quote]
+
 [emotion] [emotion] [emotion] ...
