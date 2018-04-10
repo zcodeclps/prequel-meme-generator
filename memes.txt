@@ -1,12 +1,12 @@
-maxresdefault.jpg
+rawPhotos/maxresdefault.jpg
 none
 cringe worried
-senate.jpg
+rawPhotos/senate.jpg
 I am the senate
 threatened mad
-surprised.png
+rawPhotos/surprised.png
 none
 worried
-takeaseat.jpg	
+rawPhotos/takeaseat.jpg	
 Take a seat
 mad threatened

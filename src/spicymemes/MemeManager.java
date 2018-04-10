@@ -14,7 +14,7 @@ public class MemeManager {
 		MemeLibrary library = new MemeLibrary();
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to the Star Wars Prequel Meme Generator");
-		System.out.println("What would you like to do? (add, make, done) ");
+		System.out.println("What would you like to do? (make, done) ");
 		String command = input.next();
 		while (!command.toLowerCase().equals("done")) {
 			if (command.equals("add")) {
@@ -44,7 +44,7 @@ public class MemeManager {
 		Meme result = new Meme(memeLocation, library.getQuote(memeLocation));
 		result.addSituation(situation);
 		result.makeMeme(name + ".png");
-		System.out.println("done");
+		System.out.println("finished");
 		input.close();
 		
 	}
